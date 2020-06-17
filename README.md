@@ -1,12 +1,13 @@
 
-README
----------------------------------------------------------------
+# Archived
 
-Description:
+This repository is archived and no longer being maintained. It is recommended to use the latest version of [unixODBC](http://www.unixodbc.org/).
 
-unixODBC-MSSQL is a refined fork of [unixODBC]. (http://www.unixodbc.org/)
-	unixODBC is an Open Source ODBC sub-system and an ODBC SDK
-	for Linux, Mac OSX, and UNIX. 
+# Description
+
+unixODBC-MSSQL is a refined fork of [unixODBC](http://www.unixodbc.org/)
+
+unixODBC is an Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX.
 	
 License:
 	
@@ -14,7 +15,8 @@ License:
 	All programs are GPL.
 
 Parts:
-	unixODBC includes the following;
+
+unixODBC includes the following;
 	
 	- Driver Manager
 	- Installer Library and command line tool
